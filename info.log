@@ -1,0 +1,8 @@
+[2021-05-03T15:40:59.234655+02:00] my_logger.INFO: hello [] []
+[2021-05-03T15:41:18.373606+02:00] my_logger.INFO: Hellooo [] []
+[2021-05-03T15:41:43.129100+02:00] my_logger.INFO: What [] []
+[2021-05-03T15:42:21.408380+02:00] my_logger.INFO: nessage [] []
+[2021-05-03T15:43:19.230606+02:00] my_logger.INFO: nessage [] []
+[2021-05-03T15:45:15.077295+02:00] my_logger.INFO: nessage [] []
+[2021-05-03T16:13:00.831017+02:00] my_logger.INFO: Testing 1 [] []
+[2021-05-03T16:14:25.946946+02:00] my_logger.INFO: Testing the console again but with notice [] []

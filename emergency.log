@@ -1,0 +1,8 @@
+[2021-05-03T15:40:59.235241+02:00] my_logger.EMERGENCY: hello [] []
+[2021-05-03T15:41:18.373929+02:00] my_logger.EMERGENCY: Hellooo [] []
+[2021-05-03T15:41:43.129424+02:00] my_logger.EMERGENCY: What [] []
+[2021-05-03T15:42:21.408698+02:00] my_logger.EMERGENCY: nessage [] []
+[2021-05-03T15:43:19.230987+02:00] my_logger.EMERGENCY: nessage [] []
+[2021-05-03T15:45:15.077679+02:00] my_logger.EMERGENCY: nessage [] []
+[2021-05-03T15:46:57.796477+02:00] my_logger.EMERGENCY: nessage [] []
+[2021-05-03T16:14:09.505931+02:00] my_logger.EMERGENCY: Testing 4 [] []
